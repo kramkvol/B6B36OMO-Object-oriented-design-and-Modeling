@@ -5,4 +5,6 @@ The final project was completed in collaboration with [Jakub Cerman](https://www
 
 The documentation for the project is available on [GitHub](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling/blob/main/Final%20work%20dokmentation%20%5BSmart%20Home%5D.pdf)
 
+---
+
 [GitHub Repository](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling)
